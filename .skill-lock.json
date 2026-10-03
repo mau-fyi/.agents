@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "skills": {
+    "deepwiki": {
+      "source": "seflless/deepwiki",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/seflless/deepwiki.git",
+      "skillPath": "skills/deepwiki/SKILL.md",
+      "skillFolderHash": "b32a330b3f7a51cc128ec89a2af00a23fafd512a",
+      "installedAt": "2026-10-03T03:23:22.260Z",
+      "updatedAt": "2026-10-03T03:23:22.260Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "76a98a285cb0434f3d39e1a873823556330e398b",
+      "installedAt": "2026-10-03T03:23:28.381Z",
+      "updatedAt": "2026-10-03T03:23:28.381Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code",
+    "openclaw",
+    "hermes-agent"
+  ]
+}
